@@ -1,0 +1,5 @@
+# dont apploads images from upload directory to remposititory
+
+assets/uploads/*
+
+!assets/uploads/.gitkeep
